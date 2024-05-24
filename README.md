@@ -3,6 +3,13 @@
 ## Project Overview
 This project focuses on the classification of weight categories using various machine learning models. The goal is to identify the most effective model for accurately predicting weight categories based on given features. The project is implemented in a Jupyter Notebook.
 
+## Project Structure
+- **Presetancion TP3 Grupo 5 (1).pptx**: A presentation summarizing the project and its findings.
+- **README.md**: This document.
+- **TP 3 Grupo 5.ipynb**: The main Jupyter Notebook containing the analysis and model training.
+- **features_v1.txt**: A file containing the feature data used for training the models.
+- **target.txt**: A file containing the target labels used for training the models.
+
 ## Jupyter Notebook
 The notebook, `TP 3 Grupo 5.ipynb`, includes the following sections:
 
@@ -36,7 +43,12 @@ After evaluating various models, the ensemble model showed the best performance 
 ## Resumen del Proyecto
 Este proyecto se centra en la clasificación de categorías de peso utilizando varios modelos de machine learning. El objetivo es identificar el modelo más efectivo para predecir con precisión las categorías de peso basadas en características dadas. El proyecto se implementa en un Jupyter Notebook.
 
-
+## Estructura del Proyecto
+- **Presetancion TP3 Grupo 5 (1).pptx**: Una presentación que resume el proyecto y sus hallazgos.
+- **README.md**: Este documento.
+- **TP 3 Grupo 5.ipynb**: El Jupyter Notebook principal que contiene el análisis y el entrenamiento de modelos.
+- **features_v1.txt**: Un archivo que contiene los datos de las características utilizadas para el entrenamiento de los modelos.
+- **target.txt**: Un archivo que contiene las etiquetas objetivo utilizadas para el entrenamiento de los modelos.
 ## Jupyter Notebook
 El notebook, `TP 3 Grupo 5.ipynb`, incluye las siguientes secciones:
 
