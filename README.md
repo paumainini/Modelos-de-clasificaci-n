@@ -4,7 +4,7 @@
 This project focuses on the classification of weight categories using various machine learning models. The goal is to identify the most effective model for accurately predicting weight categories based on given features. The project is implemented in a Jupyter Notebook.
 
 ## Jupyter Notebook
-The notebook, `Weight_Classification.ipynb`, includes the following sections:
+The notebook, `TP 3 Grupo 5.ipynb`, includes the following sections:
 
 1. **Introduction**
    - An overview of the problem and the dataset.
@@ -36,20 +36,9 @@ After evaluating various models, the ensemble model showed the best performance 
 ## Resumen del Proyecto
 Este proyecto se centra en la clasificación de categorías de peso utilizando varios modelos de machine learning. El objetivo es identificar el modelo más efectivo para predecir con precisión las categorías de peso basadas en características dadas. El proyecto se implementa en un Jupyter Notebook.
 
-## Estructura del Proyecto
-- **data/**
-  - `dataset.csv`: El conjunto de datos utilizado para el entrenamiento y prueba de los modelos.
-- **models/**
-  - `naive_bayes_model.pkl`: Modelo entrenado Naive Bayes.
-  - `logistic_regression_model.pkl`: Modelo entrenado de Regresión Logística.
-  - `knn_model.pkl`: Modelo entrenado de K-Nearest Neighbors.
-  - `ensemble_model.pkl`: Modelo entrenado de ensamblaje.
-- **notebooks**
-  - `Clasificación_Peso.ipynb`: El Jupyter Notebook principal que contiene el análisis y el entrenamiento de modelos.
-- **README.md**: Este documento.
 
 ## Jupyter Notebook
-El notebook, `Clasificación_Peso.ipynb`, incluye las siguientes secciones:
+El notebook, `TP 3 Grupo 5.ipynb`, incluye las siguientes secciones:
 
 1. **Introducción**
    - Una visión general del problema y el conjunto de datos.
@@ -66,19 +55,9 @@ El notebook, `Clasificación_Peso.ipynb`, incluye las siguientes secciones:
 5. **Evaluación de Modelos**
    - Evaluación de los modelos utilizando métricas como precisión, exactitud, sensibilidad y puntaje F1.
 6. **Conclusión**
-   - Reflexiones finales sobre el rendimiento de los modelos y recomendaciones para futuros trabajos.
+   - Reflexiones finales sobre el rendimiento de los modelos.
 
 ## Conclusión
 Después de evaluar varios modelos, el modelo de ensamblaje mostró el mejor rendimiento en la clasificación de categorías de peso. El trabajo futuro podría incluir el ajuste de hiperparámetros y la exploración de características adicionales para mejorar aún más la precisión.
 
-## Dependencias
-- Python 3.x
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
 
-Instale los paquetes requeridos usando:
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
